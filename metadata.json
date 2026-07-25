@@ -1,0 +1,6 @@
+{
+  "name": "Koperasi Desa Merah Putih Sriamur",
+  "description": "Microsite Resmi & Marketplace Koperasi Desa Merah Putih Sriamur, Tambun Utara, Kabupaten Bekasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
